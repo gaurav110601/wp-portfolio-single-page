@@ -40,11 +40,8 @@ This is my **personal portfolio website** built using **WordPress** and the **Ar
 ### Setup Instructions
 <br>
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
-   cd portfolio-website
-2. Set up a local WordPress installation and copy these files into the htdocs or equivalent directory.
+1. Clone this repository
+2. Set up a local WordPress installation and copy wp-code files into the htdocs or equivalent directory.
 3. Import the database if included (usually via .sql file or via WordPress Export/Import tools).
 4. Configure the wp-config.php with your local DB settings.
 5. Access the site at http://localhost/portfolio-website.
