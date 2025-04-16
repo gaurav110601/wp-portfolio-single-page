@@ -37,7 +37,7 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 <!-- ................................................................................................................................. -->
 
 
-### Setup Instructions
+### Setup Instructions #1
 <br>
 
 1. Clone this repository
@@ -50,6 +50,9 @@ userename: admin
 password: gaurav110601
 
 ##### OR
+
+### Setup Instructions #2
+<br>
 
 1. download wordpress, install and setup through phpMyAdmin
 2. install plugin all-in-one wpmigration 
