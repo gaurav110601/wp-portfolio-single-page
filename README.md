@@ -46,7 +46,7 @@ This is my **personal portfolio website** built using **WordPress** and the **Ar
 4. Configure the wp-config.php with your local DB settings.
 5. Access the site at http://localhost/portfolio-website.
 
-## OR
+#### OR
 
 1. download wordpress, install and setup through phpMyAdmin
 2. install plugin all-in-one wpmigration 
