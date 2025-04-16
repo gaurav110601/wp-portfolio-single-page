@@ -37,22 +37,44 @@ This is my **personal portfolio website** built using **WordPress** and the **Ar
 <!-- ................................................................................................................................. -->
 
 
+### Setup Instructions
+<br>
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/portfolio-website.git
+   cd portfolio-website
+2. Set up a local WordPress installation and copy these files into the htdocs or equivalent directory.
+3. Import the database if included (usually via .sql file or via WordPress Export/Import tools).
+4. Configure the wp-config.php with your local DB settings.
+5. Access the site at http://localhost/portfolio-website.
+
+## OR
+
+1. download wordpress, install and setup through phpMyAdmin
+2. install plugin all-in-one wpmigration 
+3. download and install all-in-one wpmigration unlimited extention latest version through third party website
+4. import your project (.wpress) file through all-in-one wpmigration
+   a. if you got upolad limit error then get commands from internet and maximise upload size through htaccess file
+
+
+<br><br>
+<!-- ................................................................................................................................. --><br><br>
+<!-- ................................................................................................................................. -->
+
+
 ### Sample Snapshots
 
 Website:
-<img src="/image/website.jpeg"/>
+![image](https://github.com/user-attachments/assets/033aaf16-a823-4bed-878d-b530edc24788)
 
 Admin:
-<img src="/image/admin.jpeg"/>
+![image](https://github.com/user-attachments/assets/41e9cc6f-8199-4432-8a7d-3754119adf83)
+
 
 
 <br><br>
 <!-- ................................................................................................................................. -->
-
-
-![image](https://github.com/user-attachments/assets/033aaf16-a823-4bed-878d-b530edc24788)
-
-
 
 
 
