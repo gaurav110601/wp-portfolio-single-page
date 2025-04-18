@@ -1,12 +1,12 @@
 <h1 align="center">
-  WordPress Portfolio Website
+  WordPress Portfolio Website - Arrivak Me Theme
 </h1>
 
 
 <br><br>
 
 <p align="justify">
-This is my Personal Portfolio Website built using WordPress and the Arrival Me template.
+This is my Personal Portfolio Website built using WordPress and the Arrival Me template. It highlights my professional background, skills, portfolio projects, and contact details. 
 </p>
 
 
@@ -16,6 +16,7 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 - WordPress
 - Arrival Me Theme
 - Elementor Pro, WPForms etc. plugins
+- MySQL Database
 
 
 <br><br>
