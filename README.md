@@ -1,5 +1,5 @@
 <h1 align="center">
-  WordPress Portfolio Website - Arrival Me Theme
+  WordPress Portfolio Website (Single Page)
 </h1>
 
 
