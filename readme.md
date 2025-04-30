@@ -14,7 +14,7 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 <br>
 
 - WordPress
-- Arrival Me Theme
+- Arrival Me Theme (https://wpoperation.com/themes/arrival-me/)
 - Elementor Pro, WPForms etc. plugins
 - MySQL Database
 
