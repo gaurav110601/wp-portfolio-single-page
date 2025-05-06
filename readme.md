@@ -1,32 +1,32 @@
+<p align="center">
+  <img src = "images/logo.png" width="100">
+</p>
+
 <h1 align="center">
-  WordPress Portfolio Website (Single Page)
+  Gaurav Sharma
 </h1>
 
+<h3 align="center">
+  Web Developer
+</h3>
 
 <br><br>
 
-<p align="justify">
-This is my Personal Portfolio Website built using WordPress and the Arrival Me template. It highlights my professional background, skills, portfolio projects, and contact details. 
-</p>
+### WordPress Portfolio Website (Single Page)
+This is my Personal Portfolio Website built using WordPress and the Arrival Me template. It highlights my professional background, skills, portfolio projects, and contact details.
 
-
-### Technology Stack
 <br>
 
+### Technology Stack
 - WordPress
 - Arrival Me Theme (https://wpoperation.com/themes/arrival-me/)
 - Elementor Pro, WPForms etc. plugins
 - MySQL Database
 
 
-<br><br>
-<!-- ................................................................................................................................. -->
-<!-- ................................................................................................................................. -->
-
-
-### Features
 <br>
 
+### Features
 - Responsive design – mobile, tablet, and desktop friendly
 - Homepage with profile, skills, and project gallery
 - Contact section with integrated form
@@ -34,51 +34,28 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 - Easy to customize via WordPress dashboard
 
 
-<br><br>
-<!-- ................................................................................................................................. -->
-
+<br>
 
 ### Setup Instructions 
-1. download wordpress, install and setup through phpMyAdmin
-2. install plugin all-in-one wpmigration 
-3. download and install all-in-one wpmigration unlimited extention latest version through third party website
-4. import your project (.wpress) file through all-in-one wpmigration
-   a. if you got upolad limit error then get commands from internet and maximise upload size through htaccess file
+1. setup wordpress and its database
+2. import/install plugin, all-in-one wpmigration unlimited extention
+3. import the project (.wpress) file through all-in-one wpmigration
 
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-<!-- ................................................................................................................................. -->
-
+<br>
 
 ### Credintials
-wp-userename: admin <br>
-wp-password: gaurav110601 <br>
-host: localhost <br>
-username: root <br>
-password: '' [Empty string] <br>
-DB: myPortfolio <br>
+userename: admin <br>
+password: gaurav110601 <br>
 
 
-<br><br>
-<!-- ................................................................................................................................. -->
-
+<br>
 
 ### Sample Snapshots
 
 Website:
-![image](https://github.com/user-attachments/assets/033aaf16-a823-4bed-878d-b530edc24788)
+![image](./images/home.jpeg)
 
-Admin:
-![image](https://github.com/user-attachments/assets/41e9cc6f-8199-4432-8a7d-3754119adf83)
-
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
+<br>
 
 ### Developer
 
